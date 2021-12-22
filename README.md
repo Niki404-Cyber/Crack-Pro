@@ -16,7 +16,8 @@
 ## <b>installation</b>
 
 ```
-$ termux-setup-storage
+$ cd
+$ rm -rf Crack-Pro
 $ pkg update
 $ pkg upgrade
 $ pkg install python
