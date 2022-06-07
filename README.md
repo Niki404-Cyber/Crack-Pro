@@ -6,7 +6,7 @@
 
 <h1 align="center"> MR.NIKI</h1>
 
-<h2 align="center"> LOGIN WITH ADMIN APPROVE </h2>
+<h2 align="center"> LOGIN WITH FACEBOOK COOKIES </h2>
 
 <p align="center">
      NEW PRO UID CRACKING TOOLS
@@ -22,12 +22,14 @@ $ pkg update
 $ pkg upgrade
 $ pkg install python
 $ pkg install python2
-$ pip2 install requests
-$ pip2 install mechanize
+$ pip install requests
+$ pip install mechanize
+$ pip install bs4
+$ pip install rich
 $ pkg install git
 $ git clone https://github.com/Niki404-Cyber/Crack-Pro.git
 $ cd Crack-Pro
-$ python2 Crack-Pro
+$ python2 Cracking.py
 
 Note: (This Tools Not paid, So Not Need Permission To Use NIKI Crack-Pro Tools, Enjoy)
 ```
@@ -35,7 +37,7 @@ Note: (This Tools Not paid, So Not Need Permission To Use NIKI Crack-Pro Tools, 
 # Single Command 
 
 ```
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pkg install git ; git clone https://github.com/Niki404-Cyber/Crack-Pro.git ; cd Crack-Pro; python Crack-Pro
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize ; pkg install git ; pip install bs4 ; pip install rich ; git clone https://github.com/Niki404-Cyber/Crack-Pro.git ; cd Crack-Pro; python Cracking.py
 ```
  
  Note: (This Tools Are Not Paid, So No Need Permission To Use NIKI Crack-Pro Tools, Enjoy )</br>
