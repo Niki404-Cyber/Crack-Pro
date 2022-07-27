@@ -29,7 +29,7 @@ $ pip install rich
 $ pkg install git
 $ git clone https://github.com/Niki404-Cyber/Crack-Pro.git
 $ cd Crack-Pro
-$ python Crack.py
+$ python Cracking.py
 
 Note: (This Tools Not paid, So Not Need Permission To Use NIKI Crack-Pro Tools, Enjoy)
 ```
