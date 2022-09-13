@@ -16,8 +16,6 @@
 ## <b>installation</b>
 
 ```
-$ cd
-$ rm -rf Crack-Pro
 $ pkg update
 $ pkg upgrade
 $ pkg install python
@@ -27,17 +25,20 @@ $ pip install mechanize
 $ pip install bs4
 $ pip install rich
 $ pkg install git
+$ rm -rf Crack-Pro
 $ git clone https://github.com/Niki404-Cyber/Crack-Pro.git
 $ cd Crack-Pro
-$ python Cracking.py
+$ python Crack.py
 
-Note: (This Tools Not paid, So Not Need Permission To Use NIKI Crack-Pro Tools, Enjoy)
+Note: (This Tools Free, So Not Need Permission To Use NIKI Crack-Pro Tools, Enjoy)
 ```
 
 # Single Command 
 
 ```
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize ; pkg install git ; pip install bs4 ; pip install rich ; git clone https://github.com/Niki404-Cyber/Crack-Pro.git ; cd Crack-Pro; python Crack.py
+
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize ; pkg install git ; pip install bs4 ; pip install rich ; rm -rf Crack-Pro ; git clone https://github.com/Niki404-Cyber/Crack-Pro.git ; cd Crack-Pro; python Crack.py
+
 ```
  
  Note: (This Tools Are Not Paid, So No Need Permission To Use NIKI Crack-Pro Tools, Enjoy )</br>
